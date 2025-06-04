@@ -1,6 +1,6 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
-## REG NO: 212223040187
-## NAME: SANJUSHRI A
+## REG NO: 212223040146
+## NAME: POOJA S
 
 # AIM : To create UML diagrams for Student Online Exam Registration System.
 
